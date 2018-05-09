@@ -28,7 +28,3 @@ apm install clear-night-syntax
 
 ### Contribution
 Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/ClearNight/clear-night-syntax/issues).
-
----
-
-Clear Night Syntax was originally forked from [Solarized Dark Syntax](https://github.com/atom/solarized-dark-syntax)
